@@ -12,7 +12,7 @@ public class App {
         System.out.println("Choose choose:- (Red/Yellow/Magenta/Green)");
         String colour = scn.nextLine();
 
-        System.out.println(colour);
+        // System.out.println(colour);
 
         pn.prettyPrint(colour);
     }
