@@ -1,3 +1,4 @@
 /project/app/target
 /project/dep/target
 .vscode
+.idea
